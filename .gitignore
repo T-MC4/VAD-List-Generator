@@ -1,0 +1,7 @@
+/data/upload-test
+/data/upload-all
+/data/generated-VA-data-test
+/data/transcripts-test
+.env
+node_modules
+.DS_Store
